@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="https://yuvraj-shahi-portfolio.netlify.app/"> <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/briefcase-fill.svg" width="45" alt="Portfolio" style="filter: invert(43%) sepia(96%) saturate(2000%) hue-rotate(185deg) brightness(95%);"> </a>
+<a href="https://yuvraj-shahi-portfolio.netlify.app/"> <imgsrc="https://img.icons8.com/fluency/48/briefcase.png" width="45" alt="Portfolio"> </a>
 
 <br><br>
 
