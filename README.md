@@ -16,8 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="https://yuvraj-shahi-portfolio.netlify.app/"> <imgsrc="https://img.icons8.com/fluency/48/briefcase.png" width="45" alt="Portfolio"> </a>
-
+<a href="https://yuvraj-shahi-portfolio.netlify.app/"><img src="https://img.icons8.com/fluency/48/briefcase.png" width="45" alt="Portfolio"> </a>
 <br><br>
 
 
