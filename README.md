@@ -21,4 +21,11 @@
 
 
 </div>
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript">
+Data & Development
+<img src="https://skillicons.dev/icons?i=numpy,pandas,flask,html,css">
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode"> </div>
 
