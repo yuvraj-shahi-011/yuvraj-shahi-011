@@ -3,9 +3,7 @@
 # YUVRAJ SHAHI
 
 ### `B.Tech IT Student` · `Python Developer` · `Data & AI Enthusiast`
-
 <br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+software;Exploring+Data+%26+AI;Learning+Backend+Development;Turning+ideas+into+projects" alt="Typing SVG">
 <br><br>
 &nbsp;
