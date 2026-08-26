@@ -10,7 +10,6 @@
 
 <br><br>
 
-
 &nbsp;
 <a href="https://www.linkedin.com/in/yuvraj-shahi-502655322/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn">
@@ -19,10 +18,19 @@
 <a href="https://yuvraj-shahi-portfolio.netlify.app/"><img src="https://img.icons8.com/fluency/48/briefcase.png" width="45" alt="Portfolio"> </a>
 <br><br>
 
-
 </div>
-<div align="center">
+Languages
 
-<img src="./assets/tech-stack.png" width="700" alt="Tech Stack">
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" /> </p>
 
-</div>
+Data & Analysis
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" /> </p>
+
+Backend & Web
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=flask,html,css,js" /> </p>
+
+Tools
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
