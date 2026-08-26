@@ -22,7 +22,7 @@
 
 </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript">
-<img src="https://skillicons.dev/icons?i=numpy,pandas,flask,html,css">
-<img src="https://skillicons.dev/icons?i=git,github,vscode"> </div>
 
+<img src="./assets/tech-stack.png" width="700" alt="Tech Stack">
+
+</div>
