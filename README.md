@@ -17,7 +17,7 @@
 </a>
 &nbsp;
 <a href="https://yuvraj-shahi-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
+  🌐
 </a>
 
 <br><br>
