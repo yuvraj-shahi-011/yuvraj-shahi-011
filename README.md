@@ -21,15 +21,7 @@
 </div>
 Languages
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" /> </p>
-
-Data & Analysis
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" /> </p>
-
-Backend & Web
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=flask,html,css,js" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib" /> </p>
 
 Tools
 
