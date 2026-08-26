@@ -19,10 +19,5 @@
 <br><br>
 
 </div>
-Languages
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib" /> </p>
-
-Tools
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,html,css,javascript&perline=5" /> </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
