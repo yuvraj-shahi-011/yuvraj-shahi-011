@@ -10,12 +10,10 @@
 
 <br><br>
 
-<a href="https://github.com/yuvraj-shahi-011">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
+
 &nbsp;
 <a href="https://www.linkedin.com/in/yuvraj-shahi-502655322/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="https://yuvraj-shahi-portfolio.netlify.app/">
