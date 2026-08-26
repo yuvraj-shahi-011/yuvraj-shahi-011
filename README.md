@@ -1,29 +1,29 @@
-# Yuvraj Shahi
-
 <div align="center">
 
-<img src="./assets/github-profile-design.png" alt="Yuvraj Shahi GitHub Profile" width="100%">
+# YUVRAJ SHAHI
+
+### `B.Tech IT Student` · `Python Developer` · `Data & AI Enthusiast`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+software;Exploring+Data+%26+AI;Learning+Backend+Development;Turning+ideas+into+projects" alt="Typing SVG">
+
+<br><br>
+
+<a href="https://github.com/yuvraj-shahi-011">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/yuvraj-shahi-502655322/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+&nbsp;
+<a href="https://yuvraj-shahi-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yuvraj-shahi-011&style=flat-square&color=38BDF8&label=PROFILE+VIEWS">
 
 </div>
-
-## 🔗 Connect
-
-<p align="center">
-  <a href="https://github.com/yuvraj-shahi-011">GitHub</a> •
-  <a href="https://www.linkedin.com/in/yuvraj-shahi-502655322/">LinkedIn</a> •
-  <a href="https://yuvraj-shahi-portfolio.netlify.app/">Portfolio</a>
-</p>
-
----
-
-### About
-
-B.Tech Information Technology student focused on Python development,
-data analysis, backend development, AI, and data engineering.
-
-### Featured Projects
-
-- [Cafe Management System](https://github.com/yuvraj-shahi-011/Cafe-Management-System)
-- [AI Movie Recommendation](https://github.com/yuvraj-shahi-011/AI-Movie-Recommendation)
-- [Student Attendance System](https://github.com/yuvraj-shahi-011/student-attendance-system)
-- [Expense Tracker Backend](https://github.com/yuvraj-shahi-011/expense-trackerbackend)
